@@ -1,0 +1,2 @@
+---
+secret: "{{ lookup('file', 'secret') }}"
